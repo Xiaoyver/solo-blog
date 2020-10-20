@@ -1,4 +1,4 @@
-<p align="center"><img alt="Xiaoyver 的个人博客" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
+<p align="center"><img alt="Xiaoyver 的个人博客" src="https://img.hacpai.com/avatar/1562830632193?1562830633996&timestamp=1603171164233"></p><h2 align="center">
 Xiaoyver 的个人博客
 </h2>
 
