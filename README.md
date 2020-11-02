@@ -1,4 +1,4 @@
-<p align="center"><img alt="Xiaoyver 的个人博客" src="https://img.hacpai.com/avatar/1562830632193?1562830633996&timestamp=1603171164233"></p><h2 align="center">
+<p align="center"><img alt="Xiaoyver 的个人博客" src="https://static.b3log.org/images/brand/solo-128.png"></p><h2 align="center">
 Xiaoyver 的个人博客
 </h2>
 
@@ -10,8 +10,6 @@ Xiaoyver 的个人博客
 
 ### 最新
 
-* [记一次Nginx迁移异常](https://www.xiaoyver.top/articles/2020/10/22/1603376572537.html)
-* [立个-Flag](https://www.xiaoyver.top/articles/2020/10/22/1603374969525.html)
 * [修改Java编译后的class文件](https://www.xiaoyver.top/articles/2020/09/25/1601001570709.html)
 * [FRP 本机映射到外网](https://www.xiaoyver.top/articles/2020/09/15/1600133507114.html)
 * [不就是Select Count语句吗](https://www.xiaoyver.top/articles/2020/09/15/1600133450807.html)
