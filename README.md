@@ -10,6 +10,7 @@ Xiaoyver 的个人博客
 
 ### 最新
 
+* [被索取比特币了](https://www.xiaoyver.top/articles/2020/11/04/1604457055324.html)
 * [修改Java编译后的class文件](https://www.xiaoyver.top/articles/2020/09/25/1601001570709.html)
 * [FRP 本机映射到外网](https://www.xiaoyver.top/articles/2020/09/15/1600133507114.html)
 * [不就是Select Count语句吗](https://www.xiaoyver.top/articles/2020/09/15/1600133450807.html)
