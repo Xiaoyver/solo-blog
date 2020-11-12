@@ -2,7 +2,7 @@
 Xiaoyver 的个人博客
 </h2>
 
-<h4 align="center">代码写的越急，程序跑得越慢。</h4>
+<h4 align="center">在晴朗的夜里，连影子也要离你而去</h4>
 <p align="center"><a title="Xiaoyver 的个人博客" target="_blank" href="https://github.com/Xiaoyver/solo-blog"><img src="https://img.shields.io/github/last-commit/Xiaoyver/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Xiaoyver/solo-blog"><img src="https://img.shields.io/github/repo-size/Xiaoyver/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,8 @@ Xiaoyver 的个人博客
 
 ### 最新
 
+* [Centos 8 安装MySQL8](https://www.xiaoyver.top/articles/2020/11/11/1605064605139.html)
+* [Linux ](https://www.xiaoyver.top/articles/2020/11/11/1605064289391.html)
 * [Centos 端口](https://www.xiaoyver.top/articles/2020/11/11/1605063488832.html)
 * [被索取比特币了](https://www.xiaoyver.top/articles/2020/11/04/1604457055324.html)
 * [修改Java编译后的class文件](https://www.xiaoyver.top/articles/2020/09/25/1601001570709.html)
