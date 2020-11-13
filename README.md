@@ -2,7 +2,7 @@
 Xiaoyver 的个人博客
 </h2>
 
-<h4 align="center">在晴朗的夜里，连影子也要离你而去</h4>
+<h4 align="center">晴朗的夜里，影子也要离我而去</h4>
 <p align="center"><a title="Xiaoyver 的个人博客" target="_blank" href="https://github.com/Xiaoyver/solo-blog"><img src="https://img.shields.io/github/last-commit/Xiaoyver/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/Xiaoyver/solo-blog"><img src="https://img.shields.io/github/repo-size/Xiaoyver/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
