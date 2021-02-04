@@ -10,6 +10,7 @@ Xiaoyver 的个人博客
 
 ### 最新
 
+* [Manjaro 20.2安装配置](https://www.xiaoyver.top/articles/2021/02/03/1612343051327.html)
 * [Centos 8 安装MySQL8](https://www.xiaoyver.top/articles/2020/11/11/1605064605139.html)
 * [Linux ](https://www.xiaoyver.top/articles/2020/11/11/1605064289391.html)
 * [Centos 端口](https://www.xiaoyver.top/articles/2020/11/11/1605063488832.html)
