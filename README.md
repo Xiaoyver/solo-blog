@@ -10,19 +10,19 @@ Xiaoyver 的个人博客
 
 ### 最新
 
-* [Manjaro 基本配置](http:///articles/2021/02/20/1613806915343.html)
-* [Manjaro 20.2安装配置](http:///articles/2021/02/03/1612343051327.html)
-* [Centos 8 安装MySQL8](http:///articles/2020/11/11/1605064605139.html)
-* [Linux ](http:///articles/2020/11/11/1605064289391.html)
-* [Centos 端口](http:///articles/2020/11/11/1605063488832.html)
-* [被索取比特币了](http:///articles/2020/11/04/1604457055324.html)
-* [修改Java编译后的class文件](http:///articles/2020/09/25/1601001570709.html)
-* [FRP 本机映射到外网](http:///articles/2020/09/15/1600133507114.html)
-* [不就是Select Count语句吗](http:///articles/2020/09/15/1600133450807.html)
-* [Java中对象并不是都在堆上分配内存](http:///articles/2020/09/15/1600133412477.html)
-* [IDEA SpringBoot2 配置热部署](http:///articles/2020/09/15/1600133345416.html)
-* [LogStash 同步 MySQL 数据到 Elasticsearch](http:///articles/2020/09/15/1600133255084.html)
-* [世界，你好！](http:///hello-solo)
+* [Manjaro 基本配置](https:///articles/2021/02/20/1613806915343.html)
+* [Manjaro 20.2安装配置](https:///articles/2021/02/03/1612343051327.html)
+* [Centos 8 安装MySQL8](https:///articles/2020/11/11/1605064605139.html)
+* [Linux ](https:///articles/2020/11/11/1605064289391.html)
+* [Centos 端口](https:///articles/2020/11/11/1605063488832.html)
+* [被索取比特币了](https:///articles/2020/11/04/1604457055324.html)
+* [修改Java编译后的class文件](https:///articles/2020/09/25/1601001570709.html)
+* [FRP 本机映射到外网](https:///articles/2020/09/15/1600133507114.html)
+* [不就是Select Count语句吗](https:///articles/2020/09/15/1600133450807.html)
+* [Java中对象并不是都在堆上分配内存](https:///articles/2020/09/15/1600133412477.html)
+* [IDEA SpringBoot2 配置热部署](https:///articles/2020/09/15/1600133345416.html)
+* [LogStash 同步 MySQL 数据到 Elasticsearch](https:///articles/2020/09/15/1600133255084.html)
+* [世界，你好！](https:///hello-solo)
 
 
 
